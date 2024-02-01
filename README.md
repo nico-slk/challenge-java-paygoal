@@ -49,7 +49,7 @@ La configuración de la imagen en el archivo `application.propertes` debe verse 
 Con el ejemplo dado previamente, tomandolo como referencia para hacer las pruebas en POSTMAN (o similar), será necesario para los métodos ```PUT``` y ```POST``` para proveer de un body valido para la modificacion de un producto o la creacion de uno nuevo (tener en cuenta que para la creación, no se debe pasar el parámetro ```productId```)
 ## Endpoints
 
-- [GET - CONSULTAR POR ID](#-GET-CONSULTAR-POR-ID)
+- [GET - CONSULTAR POR ID](#GET---CONSULTAR-POR-ID)
 - [GET - CONSULTAR POR NOMBRE](#GET---CONSULTAR-POR-NOMBRE)
 - [GET - CONSULTAR POR PRECIO](#GET---CONSULTAR-POR-PRECIO)
 - [POST - CREAR PRODUCTO (extra)](#POST---CREAR-PRODUCTO)
